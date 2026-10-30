@@ -2,6 +2,8 @@
 
 ![刚子研究所](https://avatars.githubusercontent.com/u/335050695?s=200&v=4)
 
+[中文](README.md) | [English](README-EN.md) | [Deutsch](README-DE.md)
+
 > 刚子研究所，刚健笃实，刚毅前行。
 
 ---
